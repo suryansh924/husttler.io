@@ -362,5 +362,11 @@ p{
 }
 .status1{
     color: green;
-
+    margin-bottom: 10px;
+}
+.status2{
+    color: rgba(0, 0, 0, 0.672);
+}
+.temp{
+    color: red;
 }
